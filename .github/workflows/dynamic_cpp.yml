@@ -15,8 +15,8 @@ jobs:
     - uses: actions/checkout@v2
     - name: apt install dependency
       run: |
-       sudo apt-get -y install valgrind
-        sudo apt-get -y install libcunit1 libcunit1-doc libcunit1-de
+           sudo apt-get -y install valgrind
+           sudo apt-get -y install libcunit1 libcunit1-doc libcunit1-de
    
     
   
