@@ -7,12 +7,20 @@ Telephone relays were used to build the first digital logic systems in the 1930s
 ### Digital & Analog Circuits Value Estimator
 #### Digital Logical Circuits
 The term "digital logic circuit" refers to a circuit in which voltages are expected to have a finite number of unique values. Combinational logic circuits and sequential logic circuits are two types of digital logic circuits. Most digital electronic devices, such as computers, calculators, and cell phones, use these basic circuits.
+![image](https://user-images.githubusercontent.com/101788713/160765370-fc6cb204-58cf-4644-8efe-b86d8ce6895d.png)
+
 #### Combinational Digital Logic Circuits
 Digital logic gates such as AND, OR, NOT, and universal gates are used to construct combinational digital logic circuits (NAND gate and NOR gate). A sophisticated switching circuit is created by combining all of these gates. Combinational logic circuits use logic gates as building blocks. In a combinational logic circuit, the output at any point in time is solely determined by the current input at that point in time, and there are no memory devices in combinational circuits. Combinational circuits include encoders and decoders.
+![image](https://user-images.githubusercontent.com/101788713/160765414-5263b479-85ac-47e6-b44d-a1a672cced82.png)
+
 #### Multiplexer & Demultiplexer
 A multiplexer is a circuit that takes numerous inputs but only outputs one. A demultiplexer works in the opposite direction of a multiplexer, accepting just one input and producing several outputs. Because communication systems are bidirectional, multiplexer and demultiplexer are usually employed simultaneously. Multiplexers are used in communication systems, telephone networks, computer memory, and satellite transmission systems. Communication systems, ALUs (Arithmetic Logic Units), and serial to parallel converters all require demultiplexers.
+![image](https://user-images.githubusercontent.com/101788713/160765446-18d9a477-274b-432b-9efe-607acd3f66c5.png)
+
 #### Operational Amplifiers
 A multiplexer is a circuit that takes numerous inputs but only outputs one. A demultiplexer works in the opposite direction of a multiplexer, accepting just one input and producing several outputs. Because communication systems are bidirectional, multiplexer and demultiplexer are usually employed simultaneously. Multiplexers are used in communication systems, telephone networks, computer memory, and satellite transmission systems. Communication systems, ALUs (Arithmetic Logic Units), and serial to parallel converters all require demultiplexers.
+![image](https://user-images.githubusercontent.com/101788713/160765481-65aca0f3-8ca1-4fab-9a8d-6312277c772f.png)
+
 * Voltage amplifiers accept input voltage and output it as a voltage.
 * Current amplifiers take a current input and output it as a current.
 * A voltage input is converted into a current output by transconductance amplifiers.
