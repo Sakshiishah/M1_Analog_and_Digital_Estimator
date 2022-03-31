@@ -4,3 +4,4 @@
 
 * [![Unit Testing - Unity](https://github.com/Sakshiishah/M1_March2022/actions/workflows/unity.yml/badge.svg)](https://github.com/Sakshiishah/M1_March2022/actions/workflows/unity.yml)
 * [![CI-Coverage](https://github.com/Sakshiishah/M1_March2022/actions/workflows/code_coverage.yml/badge.svg)](https://github.com/Sakshiishah/M1_March2022/actions/workflows/code_coverage.yml)
+* [![Valgrind](https://github.com/Sakshiishah/M1_March2022/actions/workflows/dynamic_cpp.yml/badge.svg?branch=main)](https://github.com/Sakshiishah/M1_March2022/actions/workflows/dynamic_cpp.yml)
